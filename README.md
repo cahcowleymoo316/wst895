@@ -1,2 +1,7 @@
 # wst895
 This is the code and output I used to create my Master's dissertation entitled Modelling spatial dependence using extensions of the Poisson distribution at the Department of Statistics at the University of Pretoria, South Africa.
+
+Dissertation Abstract:
+
+When modelling univariate count data, the Poisson distribution is a popular choice that is routinely studied by academics and applied by practitioners. It does not, however, allow for the modelling of dependencies found in real-world datasets. The Poisson distribution is particulary insufficient when modelling overdispersed and spatially dependent data. It is for this reason that extensions of the Poisson distribution that are known to perform well in these two areas are considered. Poisson mixture regression is effective at modelling overdispersed data and Gaussian Process/Kriging is a well-known method for capturing spatial dependence. A framework is created within which exploratory spatial metrics are categorised. Model accuracy is evaluated in terms of model fit through a residual analysis and Mean-Square Error (MSE) evaluation. The model’s ability to capture spatial dependence is evaluated with a confusion matrix. This gives us a range of tools to assess in what manner an extension outperform its counterparts. We then decide which of these extensions achieve the best performance on a dataset with given spatial characteristics. Further extensions to the exploratory spatial framework, modelling techniques and accuracy
+measures are also suggested.
